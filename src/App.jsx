@@ -1,6 +1,6 @@
 import React from 'react'
 import Section1 from './componets/Section1/Section1'
-import Section2 from './componets/section2/Section2'
+import Section2 from './componets/Section2/Section2'
 
 const App = () => {
 
